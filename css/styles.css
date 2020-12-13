@@ -1,0 +1,143 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+  margin : 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color : #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color : #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #66BFBF;
+  border-width: 7px;
+  width: 7%;
+  margin: 70px auto 70px auto;
+}
+
+.top-container {
+  background-color: #EAF9F5;
+  position : relative;
+  padding-top: 100px;
+}
+
+.imageprofile {
+  width: 19%;
+  float: left;
+  margin-right: 30px;
+}
+
+.imageprofile2 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container {
+}
+
+.skill-row {
+  width: 50% ;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container p {
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+}
+
+.bottom-container {
+  background-color: #66BFBF ;
+  margin-top : 80px;
+  padding: 30px 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+
+}
+
+
+.btn {
+  text-decoration: none;
+  padding : 10px 23px;
+  background: rgb(0,212,255);
+  background: linear-gradient(0deg, rgba(0,212,255,1) 0%, rgba(7,159,189,1) 0%, rgba(102,191,191,1) 100%);
+  color: white;
+  border-radius:7px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+.entete {
+  background-color: #456268;
+  height :60px;
+  top: 0px;
+}
+
+.footer-link{
+  color : #11999E;
+  text-decoration: none;
+  margin: 10px;
+}
+
+
+.business-img {
+  width: 15%;
+  margin-top:50px;
+}
+
+
+
+.pro {
+  text-decoration : underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position : absolute;
+  left : 300px;
+  bottom: 300px;
+}
+
+
+#parag1 {
+  color: #40514E ;
+  width: 30%;
+  margin: auto ;
+}
+
+#parag2fin {
+  margin : 40px auto 60px;
+  width:40%;
+}
+
+#h2spe {
+  margin: 70px auto 70px auto;
+}
